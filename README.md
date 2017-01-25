@@ -18,3 +18,10 @@ examples thus some of the code is Copyright © 2001-2013 Python
 Software Foundation; All Rights Reserved under the PSF license (GPL
 compatible) http://docs.python.org/2/library/socketserver.html
 
+Further documentation used to implement httpclient.py:
+
+* Socket connect: https://docs.python.org/2/library/socket.html#socket.socket.connect
+* Socket example: https://docs.python.org/2/library/socket.html#example
+* URL parsing: https://docs.python.org/2/library/urlparse.html
+* HTTP request format: https://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html
+* HTTP response format: https://www.w3.org/Protocols/rfc2616/rfc2616-sec6.html
